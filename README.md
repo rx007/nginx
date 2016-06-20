@@ -4,6 +4,7 @@ nginx Cookbook
 [![Build Status](https://travis-ci.org/miketheman/nginx.svg?branch=master)](https://travis-ci.org/miketheman/nginx)
 [![Gitter chat](https://img.shields.io/badge/Gitter-miketheman%2Fnginx-brightgreen.svg)](https://gitter.im/miketheman/nginx)
 
+
 **Note**: This branch is currently a Work-In-Progress, in hopes of rewriting the nginx cookbook
 into a much better state.
 
